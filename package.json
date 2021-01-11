@@ -1,0 +1,16 @@
+{
+  "name": "aspose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aspose.cells": "^20.11.0",
+    "java": "^0.12.1"
+  }
+}
